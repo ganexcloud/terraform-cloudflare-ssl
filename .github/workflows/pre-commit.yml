@@ -3,7 +3,6 @@ name: Pre-Commit
 on:
   pull_request:
     branches:
-      - main
       - master
 
 env:
