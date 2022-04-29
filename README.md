@@ -1,4 +1,7 @@
 <!-- BEGIN_TF_DOCS -->
+
+Provides a Cloudflare Certificate Pack resource that is used to provision managed TLS certificates.
+
 ## Requirements
 
 | Name | Version |

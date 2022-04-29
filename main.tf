@@ -1,3 +1,8 @@
+/**
+  *
+  * Provides a Cloudflare Certificate Pack resource that is used to provision managed TLS certificates.
+  */
+
 resource "cloudflare_certificate_pack" "this" {
   zone_id               = var.zone_id
   type                  = var.type
